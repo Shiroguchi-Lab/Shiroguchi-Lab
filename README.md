@@ -1,4 +1,4 @@
-- 👋 Hi, This is a GitHub station for Shiroguchi lab, Lab for Prediction of Cell Systems Dynamics, RIKEN Center for Biosystems Dynamics Research (BDR)
+- 👋 Welcome, this is GitHub for Shiroguchi lab, Lab for Prediction of Cell Systems Dynamics, RIKEN Center for Biosystems Dynamics Research (BDR)
 - 📫 You can find us by http://guppy.riken.jp
 
 <!---
